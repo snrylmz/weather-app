@@ -1,0 +1,10 @@
+@media (max-width:1024px){
+  .container{
+    max-width: 90% !important;
+  }
+  .widget--secondry--block{
+    .widget--block{
+      max-width: 50%;
+    }
+  }
+}
